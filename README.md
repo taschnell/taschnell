@@ -7,7 +7,7 @@
 
 
 ## Hello There!
-Aerospace Engineering Majora @ SJSU! 
+Aerospace Engineering Major @ SJSU! 
 
 <!--
 **taschnell/taschnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
