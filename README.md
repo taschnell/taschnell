@@ -7,10 +7,7 @@
 
 
 ## Hello There!
-Aerospace/CS Student @ Cabrillo! I'm interested in aerospace & robotics! Specifically, automation & simulation, but I also enjoy working on the hardware!
-
-
-
+Aerospace Engineering Majora @ SJSU! 
 
 <!--
 **taschnell/taschnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
